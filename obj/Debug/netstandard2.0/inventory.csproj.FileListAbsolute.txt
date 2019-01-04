@@ -1,0 +1,9 @@
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.csprojAssemblyReference.cache
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.csproj.CoreCompileInputs.cache
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.AssemblyInfoInputs.cache
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.AssemblyInfo.cs
+C:\_per\_dev\github\ttr\inventory\bin\Debug\netstandard2.0\inventory.deps.json
+C:\_per\_dev\github\ttr\inventory\bin\Debug\netstandard2.0\inventory.dll
+C:\_per\_dev\github\ttr\inventory\bin\Debug\netstandard2.0\inventory.pdb
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.dll
+C:\_per\_dev\github\ttr\inventory\obj\Debug\netstandard2.0\inventory.pdb
